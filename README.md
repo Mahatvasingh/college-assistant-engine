@@ -1,4 +1,4 @@
-# Campus Copilot RAG 🎓⚡
+# Campus-assistant-engine 🎓⚡
 
 A production-grade, stateful college intelligence assistant powered by LangGraph, FAISS vector search, and Groq inference. The system decouples offline document ingestion from real-time inference and features an **Agent Inspector** to observe active graph branches, entity extraction, and reasoning paths in real time.
 
